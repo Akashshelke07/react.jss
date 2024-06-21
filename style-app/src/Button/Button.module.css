@@ -1,0 +1,10 @@
+//module css is the simple way to avoid conflite between the styles names 
+//we can use seprate directory for this ...
+
+.button{
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+} 
